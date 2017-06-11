@@ -1,0 +1,20 @@
+$color: blue;
+
+body {
+	background: $color;
+
+	p {
+		color: $color;
+		a {
+			color: $color;
+		}
+	}
+	.box {
+		margin: 20px;
+		width: 100px;
+		height: 100px;
+		background: black;
+		display: flex;
+		color: black;
+	}
+}

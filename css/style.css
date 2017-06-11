@@ -1,0 +1,15 @@
+body {
+  background: blue; }
+  body p {
+    color: blue; }
+    body p a {
+      color: blue; }
+  body .box {
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    background: black;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    color: black; }
